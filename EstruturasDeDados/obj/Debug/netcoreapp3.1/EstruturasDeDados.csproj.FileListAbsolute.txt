@@ -1,0 +1,16 @@
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.EstruturasDeDados.resources
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.csproj.GenerateResource.cache
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\bin\Debug\netcoreapp3.1\EstruturasDeDados.exe
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\bin\Debug\netcoreapp3.1\EstruturasDeDados.deps.json
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\bin\Debug\netcoreapp3.1\EstruturasDeDados.runtimeconfig.json
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\bin\Debug\netcoreapp3.1\EstruturasDeDados.runtimeconfig.dev.json
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\bin\Debug\netcoreapp3.1\EstruturasDeDados.dll
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\bin\Debug\netcoreapp3.1\EstruturasDeDados.pdb
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.dll
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.pdb
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\EstruturasDeDados\EstruturasDeDados\obj\Debug\netcoreapp3.1\EstruturasDeDados.frmEstruturaDeDados.resources
